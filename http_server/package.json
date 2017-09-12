@@ -10,6 +10,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "lodash": "^4.17.4"
+        "express": "^4.15.4",
+        "lodash": "^4.17.4",
+        "pug": "^2.0.0-rc.4"
     }
 }
